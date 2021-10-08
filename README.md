@@ -1,10 +1,5 @@
 # RocketShoes
 
-## :rocket: Sobre
-
-<p>O GoRestaurant é uma aplicação ficticia em <strong>React.js</strong> que se trata de um painel de adm para restaurantes
-controlarem quais refeições estão disponíveis e quais estão indisponíveis.</p>
-
 ## Preview
 
 <img src="./src/assets/images/screenshot.png">
