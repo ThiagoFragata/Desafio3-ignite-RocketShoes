@@ -1,4 +1,4 @@
-# GoRestaurant
+# RocketShoes
 
 ## :rocket: Sobre
 
